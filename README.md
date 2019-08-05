@@ -18,3 +18,10 @@ http://paulbupejr.com/beaglebone-black-internet-over-usb/
 
 https://www.vivaolinux.com.br/dica/WARNING-Remote-host-identification-has-changed
 
+
+# E-mail para contato
+
+emersonvilar@ufrn.edu.br
+
+Enviar e-mail com assunto “STR - BeagleBone”
+
