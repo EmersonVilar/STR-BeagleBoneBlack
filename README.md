@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=o_Oe8qREqBw
 https://github.com/ruteee/BlackLib-Modificada
 
 ## Links Úteis
-### Como usar o comando SPC para troca de arquivos
+### Como usar o comando SCP para troca de arquivos
 https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/
 
 ### Como rotear internet para a BBB (Windows)
